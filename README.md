@@ -1,6 +1,7 @@
 ## READ ME
 
 -----URL Shortener backend-----
+
 1.0 Setup application
 1.1 Initialize project yarn init
 
@@ -29,6 +30,7 @@
 4.2 Add docker-compose
 
 -----URL Shortener user interface-----
+
 1.0 Bootstrap React application
 1.1 Create application - npx create-react-app ui --template typescript
 
